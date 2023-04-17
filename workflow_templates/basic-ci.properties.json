@@ -1,0 +1,13 @@
+{
+    "name": "Basic-CI workflow",
+    "description": "This is a simple workflow to demonstrate Continuous Integration",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
