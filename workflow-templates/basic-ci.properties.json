@@ -1,7 +1,7 @@
 {
     "name": "Basic CI workflow",
     "description": "Create a basic worflow for Continuous Integration",
-    "iconName": "smiley",
+    "iconName": "octicon smiley",
     "categories": [
         "Go"
     ],
