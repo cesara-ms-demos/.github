@@ -1,1 +1,1 @@
-# Wellcomoe to the cesara-ms-demos organization
+# Wellcome to the cesara-ms-demos organization
